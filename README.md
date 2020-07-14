@@ -3,7 +3,7 @@
 I'm a Programming Consultant at [Computer Solutions of SC](http://www.computersolutionssc.com/)
 
 - 🔭 I’m currently working on C# and Microsoft Access projects for Clients
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 I’m currently learning SwiftUI after work.
 
 <br>
 

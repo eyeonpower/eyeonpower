@@ -8,7 +8,7 @@ I'm a Programming Consultant at [Computer Solutions of SC](http://www.computerso
 <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eyeonpower)](https://github.com/eyeonpower)
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Feyeonpower)](https%3A%2F%2Ftwitter.com%2Feyeonpower)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Feyeonpower)](https://twitter.com/eyeonpower)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raymondlphillips/)](https://www.linkedin.com/in/raymondlphillips/)
 
 <hr>

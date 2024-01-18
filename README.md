@@ -6,6 +6,7 @@ I'm a Programming Consultant at [Computer Solutions of SC](http://www.computerso
 - 🌱 I’m currently learning SwiftUI after work.
 
 [![](https://github-readme-stats.vercel.app/api?username=eyeonpower&show_icons=true&theme=dark)](https://github.com/eyeonpower)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyeonpower&show_icons=true&theme=dark)](https://github.com/eyeonpower)
 
 <br>
 

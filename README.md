@@ -5,6 +5,8 @@ I'm a Programming Consultant at [Computer Solutions of SC](http://www.computerso
 - 🔭 I’m currently working on C# and Microsoft Access projects for Clients
 - 🌱 I’m currently learning SwiftUI after work.
 
+[![](https://github-readme-stats.vercel.app/api?username=eyeonpower&show_icons=true&theme=dark)](https://github.com/eyeonpower)
+
 <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eyeonpower)](https://github.com/eyeonpower)
